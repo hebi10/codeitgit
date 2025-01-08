@@ -11,4 +11,4 @@ function subtract(a,b){
 }
 ```
 
-<img src="https://via.placeholder.com/300" width=300 height=300 />
+<span style="display: inline-block; background-color: red; width: 100px; height: 100px;"></span>
