@@ -11,6 +11,6 @@ function multiply(a,b){
   return a * b;
 }
 
-function divide_premium(a,b){
+function divide_new(a,b){
   return a / b;
 }
