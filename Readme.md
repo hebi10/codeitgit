@@ -10,5 +10,3 @@ function subtract(a,b){
   return a - b;
 }
 ```
-
-<img src="https://via.placeholder.com/300" width=300 height=300 />
